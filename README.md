@@ -30,14 +30,20 @@ Proactive notifications when margin risk increases.
 
 - Frontend: Next.js, TypeScript, Tailwind
 
-- Backend: FastAPI (Python)
+- Backend: Next.js API Routes (Node)
 
-- Database: PostgreSQL
+- Database: Supabase (PostgreSQL)
 
-- Data Analysis: Pandas
+- Integrations: Shopify GraphQL Admin API
+
+- Payments: Stripe
+
+- Risk Engine: TypeScript analytics layer
 
 - AI Layer: OpenAI API
+  
 - Deployment: Vercel + Render
+
 
 ## Vision
 
